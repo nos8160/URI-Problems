@@ -1,4 +1,3 @@
-a = b = 200
-a+=5
-print(b)
-print(a)
+for i in range(5):
+    print("fdsaf")
+print(i)
